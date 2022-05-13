@@ -1,0 +1,120 @@
+*{font-family: 'Noto Sans KR', sans-serif;
+  list-style: none;
+  text-decoration: none;
+  border-collapse: collapse;
+  margin: 0px;
+  padding: 0px;
+  color: #000;
+  background-color: #F4F4F4
+}
+
+
+.topArea{
+  width:1200px;
+  /*margin:auto;*/
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 40px;
+  padding-bottom: 5px;
+  border-style: solid;
+  border-color: #707070;
+}
+
+/*margin-left:317.500px;*/
+
+.container2{
+  width:1200px;
+  height: 199px;
+  margin:auto;
+  display: flex;
+  justify-content: space-between;
+}
+.box1{
+  width: 276px;
+  height: 168px;
+  margin-top:14px;
+  border-style: solid;
+  border-color: #707070;
+}
+.box2{
+  width:900px;
+  height:85px;
+  margin-top: 14px;
+  border-style: solid;
+  border-color: #707070;
+}
+
+.container3{
+  width: 1200px;
+  height: 120px;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+}
+.title{
+  width:1200px;
+  height:102px;
+  padding-top: 10px;
+  padding-left: 60px;
+  border-style: solid;
+  border-color: #707070;
+  font-size: 23px;
+}
+.box3{
+  width: 204px;
+  height: 112px;
+  border-style: solid;
+  border-color: #707070;
+}
+
+.container4{
+  width:1200px;
+  margin:auto;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 30px;
+}
+.btext{
+  display: inline;
+  width: 480px;
+  border-style: solid;
+  border-color: #707070;
+  font-size: 35px;
+  padding-left: 5px;
+  padding-top: 10px;
+  text-align: center;
+}
+.btext2{
+  width: 685px;
+  border-style: solid;
+  border-color: #707070;
+  border-bottom: 1px solid:#707070;
+  padding-left: 10px;
+}
+
+.container5{
+  width:1200px;
+  margin:auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+.ctext{
+  width: 460px;
+  padding-top: 80px;
+  padding-bottom: 60px;
+  border-style: solid;
+  border-color: #707070;
+  text-align: right;
+  padding-right: 25px;
+}
+
+.ctext2{
+    width:665px;
+    border-style: solid;
+    border-color: #707070;
+    text-align: center;
+    font-size: 35px;
+    padding-left: 30px;
+    padding-top: 80px;
+}
